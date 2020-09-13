@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FirstCounter</string>
+    <string name="app_title">ひとけた計算</string>
+    <string name="app_start">スタート</string>
+    <string name="app_setting">設定</string>
+    <string name="app_mypage">マイページ</string>
+    <string name="app_mypageDescription">マイページ</string>
+    <string name="app_settingDescription">設定</string>
+
+    <string name="mode_select_timeLimitModeButton">時間制限モード</string>
+    <string name="mode_select_quantityModeButton">問題数モード</string>
+    <string name="mode_select_backButtonDescription">戻る</string>
+
+    <string name="arithmetic_plusButton">+のみ</string>
+    <string name="arithmetic_minusButton">-のみ</string>
+    <string name="arithmetic_divisionButton">÷のみ</string>
+    <string name="arithmetic_plusminusButton">+-</string>
+    <string name="arithmetic_PMDButton">+-÷</string>
+    <string name="arithmetic_backButtonDescription">戻る</string>
+
+    <string name="difficulty_select_easyButton">かんたん</string>
+    <string name="difficulty_select_normalButton">ふつう</string>
+    <string name="difficulty_select_difficultButton">むずかしい</string>
+    <string name="difficult_select_backButtonDescription">戻る</string>
+</resources>
